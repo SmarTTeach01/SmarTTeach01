@@ -4,7 +4,7 @@
       <div class="col-md-12">
         <div class="row justify-content-center mt-5">
           <h3>
-            Foro
+            Comunidad
           </h3>
         </div>
         <div class="row justify-content-center content-foro">

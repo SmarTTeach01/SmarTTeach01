@@ -8,7 +8,7 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
           <b-nav-item to="/">Cursos</b-nav-item>
-          <b-nav-item to="/foro">Foro</b-nav-item>
+          <b-nav-item to="/foro">Comunidad</b-nav-item>
           <b-nav-item to="/recursos">Recursos</b-nav-item>
         </b-navbar-nav>
 
