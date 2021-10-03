@@ -106,7 +106,7 @@ export default {
         title: titlesVideo[parseInt(params.idVideo) - 1].title,
         number: params.idVideo,
         views: 151,
-        url: "/videos/" + params.idCurso + "-" + params.idVideo + ".mp4"
+        url: "https://andrescarrasco.com/videos/" + params.idCurso + "-" + params.idVideo + ".mp4"
       },
       videos: titlesVideo
     };

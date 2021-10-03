@@ -15,7 +15,7 @@
         <div class="row justify-content-center">
           <div class="col-md-3">
             <b-card
-              title="Pizarra para matemáticos"
+              title="Pizarra digitales"
               img-src="/img/classroom.jpg"
               img-alt="Image"
               img-top
@@ -24,18 +24,17 @@
               class="mb-2"
             >
               <b-card-text>
-                Aprende como crear, agregar, calificar tareas para llevar tus
-                clases virtuales.
+                Recomendaciones de pizarras digitales para distintos cursos.
               </b-card-text>
 
-              <b-button to="/cursos/1/1" variant="primary"
-                >Descargar</b-button
+              <a href="https://matematicas11235813.luismiglesias.es/pizarra-digital-pdi/" target="_blank"
+                >Descargar</a
               >
             </b-card>
           </div>
           <div class="col-md-3">
             <b-card
-              title="Google Meet"
+              title="Excel Macros para asistencias"
               img-src="/img/googlemeet.png"
               img-alt="Image"
               img-top
@@ -44,13 +43,13 @@
               class="mb-2"
             >
               <b-card-text>
-                Aprende a crear reuniones, programar, invitarlas y usar todas
-                sus herramientas.
+                Modelos de la plantillas para obtener datos de asistencias.
               </b-card-text>
 
-              <b-button to="/cursos/2/1" variant="primary"
-                >Tomar Clases</b-button
+              <a href="https://matematicas11235813.luismiglesias.es/pizarra-digital-pdi/" target="_blank"
+                >Descargar</a
               >
+              
             </b-card>
           </div>
           <div class="col-md-3">
@@ -68,8 +67,8 @@
                 sus herramientas.
               </b-card-text>
 
-              <b-button to="/cursos/3/1" variant="primary"
-                >Tomar Clases</b-button
+              <a href="https://matematicas11235813.luismiglesias.es/pizarra-digital-pdi/" target="_blank"
+                >Descargar</a
               >
             </b-card>
           </div>
@@ -97,8 +96,8 @@
           </div>
           <div class="col-md-3">
             <b-card
-              title="Google Meet"
-              img-src="/img/googlemeet.png"
+              title="Macros Excel de listas"
+              img-src="/img/classroom.jpg"
               img-alt="Image"
               img-top
               tag="article"
@@ -106,12 +105,12 @@
               class="mb-2"
             >
               <b-card-text>
-                Aprende a crear reuniones, programar, invitarlas y usar todas
-                sus herramientas.
+                Aprende como crear, agregar, calificar tareas para llevar tus
+                clases virtuales.
               </b-card-text>
 
-              <b-button to="/cursos/2/1" variant="primary"
-                >Tomar Clases</b-button
+              <b-button to="/cursos/1/1" variant="primary"
+                >Descargar</b-button
               >
             </b-card>
           </div>
